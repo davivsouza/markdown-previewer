@@ -7,6 +7,7 @@
   <img  src="https://img.shields.io/github/forks/davivsouza/markdown-previewer"/>
   <img  src="https://img.shields.io/github/stars/davivsouza/markdown-previewer"/>
   <img  src="https://img.shields.io/github/license/davivsouza/markdown-previewer"/>
+
 </div>
 
 <p align="center">
